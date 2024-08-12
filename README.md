@@ -1,1 +1,1 @@
-# aws-c9-tofu-live
+# This repo was created for POC purposes (opentofu with terragrunt) 
